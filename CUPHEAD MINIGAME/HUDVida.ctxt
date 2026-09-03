@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HUDVida
+comment1.params=
+comment1.target=HUDVida()
+comment2.params=vida
+comment2.target=void\ actualizarVida(int)
+numComments=3

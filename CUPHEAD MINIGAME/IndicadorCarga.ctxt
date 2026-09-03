@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IndicadorCarga
+comment1.params=
+comment1.target=IndicadorCarga()
+comment2.params=tiempoCarga\ limiteCargaMedia\ limiteCargaCompleta
+comment2.target=void\ actualizarNivel(int,\ int,\ int)
+numComments=3
