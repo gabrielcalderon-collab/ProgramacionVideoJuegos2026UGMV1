@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MenuNivel
+comment1.params=mundo
+comment1.target=MenuNivel(JuegoWorld)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ generarOpciones()
+comment4.params=indice
+comment4.target=void\ elegirOpcion(int)
+comment5.params=opcion
+comment5.target=void\ aplicarMejora(java.lang.String)
+comment6.params=
+comment6.target=void\ actualizarImagen()
+comment7.params=imagen\ indice
+comment7.target=void\ dibujarOpcion(greenfoot.GreenfootImage,\ int)
+comment8.params=opcion
+comment8.target=java.lang.String\ obtenerNombreVisible(java.lang.String)
+numComments=9

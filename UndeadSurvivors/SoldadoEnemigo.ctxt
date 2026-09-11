@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=SoldadoEnemigo
+comment1.params=objetivo\ vida\ velocidad\ danio
+comment1.target=SoldadoEnemigo(Jugador,\ int,\ int,\ int)
+comment10.params=mundo
+comment10.target=void\ registrarEliminacion(greenfoot.World)
+comment11.params=
+comment11.target=void\ animar()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ perseguir()
+comment4.params=
+comment4.target=void\ actualizarAtaque()
+comment5.params=
+comment5.target=void\ atacar()
+comment6.params=dx
+comment6.target=void\ actualizarOrientacion(double)
+comment7.params=
+comment7.target=void\ morir()
+comment8.params=mundo
+comment8.target=void\ soltarCuracion(greenfoot.World)
+comment9.params=mundo
+comment9.target=void\ otorgarExperiencia(greenfoot.World)
+numComments=12

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HUD
+comment1.params=mundo\ jugador\ gestor
+comment1.target=HUD(JuegoWorld,\ Jugador,\ GestorOleadas)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ actualizarImagen()
+comment4.params=imagen\ x\ y
+comment4.target=void\ dibujarBarraExperiencia(greenfoot.GreenfootImage,\ int,\ int)
+comment5.params=imagen\ x\ y\ nombre\ nivel\ tipo
+comment5.target=void\ dibujarArma(greenfoot.GreenfootImage,\ int,\ int,\ java.lang.String,\ int,\ int)
+comment6.params=imagen\ centroX\ centroY\ tipo
+comment6.target=void\ dibujarIconoArma(greenfoot.GreenfootImage,\ int,\ int,\ int)
+comment7.params=imagen
+comment7.target=void\ dibujarBarraVidaJugador(greenfoot.GreenfootImage)
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FondoMundo
+comment1.params=nombreArchivo\ anchoMapa\ altoMapa
+comment1.target=FondoMundo(java.lang.String,\ int,\ int)
+comment2.params=mundo
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=nombreArchivo
+comment4.target=void\ crearFondo(java.lang.String)
+numComments=5

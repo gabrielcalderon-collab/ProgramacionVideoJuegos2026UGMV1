@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TextoDanio
+comment1.params=danio\ mundoX\ mundoY
+comment1.target=TextoDanio(int,\ double,\ double)
+comment2.params=mundo
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

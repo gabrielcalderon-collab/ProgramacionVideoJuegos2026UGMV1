@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Camara
+comment1.params=mundo
+comment1.target=Camara(JuegoWorld)
+comment2.params=jugadorX\ jugadorY
+comment2.target=void\ actualizar(double,\ double)
+comment3.params=valor\ minimo\ maximo
+comment3.target=int\ limitar(int,\ int,\ int)
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+numComments=6

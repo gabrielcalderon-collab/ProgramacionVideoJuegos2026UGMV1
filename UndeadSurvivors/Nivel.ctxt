@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Nivel
+comment1.params=archivoFondo\ ancho\ alto
+comment1.target=Nivel(java.lang.String,\ int,\ int)
+comment2.params=archivoFondo
+comment2.target=greenfoot.GreenfootImage\ construirMapa(java.lang.String)
+comment3.params=
+comment3.target=int\ getAncho()
+comment4.params=
+comment4.target=int\ getAlto()
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ getMapa()
+numComments=6
