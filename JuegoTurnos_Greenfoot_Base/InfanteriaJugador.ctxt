@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InfanteriaJugador
+comment1.params=
+comment1.target=InfanteriaJugador()
+comment2.params=
+comment2.target=void\ setFrameInicial()
+comment3.params=
+comment3.target=void\ setFrameGirando()
+comment4.params=
+comment4.target=void\ setFrameMirando()
+comment5.params=archivo
+comment5.target=void\ setFrame(java.lang.String)
+numComments=6

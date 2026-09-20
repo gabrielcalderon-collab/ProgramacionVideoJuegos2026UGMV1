@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FondoEscenario
+comment1.params=
+comment1.target=FondoEscenario()
+comment2.params=
+comment2.target=void\ guardarPosicion()
+comment3.params=x\ y
+comment3.target=void\ sacudir(int,\ int)
+comment4.params=
+comment4.target=void\ restaurar()
+numComments=5

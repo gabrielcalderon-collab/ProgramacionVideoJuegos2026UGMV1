@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Unidad
+comment1.params=hpMaximo
+comment1.target=Unidad(int)
+comment2.params=cantidad
+comment2.target=void\ recibirDanio(int)
+comment3.params=
+comment3.target=boolean\ estaViva()
+comment4.params=
+comment4.target=int\ getHP()
+comment5.params=
+comment5.target=int\ getHPMaximo()
+comment6.params=
+comment6.target=double\ proporcionVida()
+numComments=7

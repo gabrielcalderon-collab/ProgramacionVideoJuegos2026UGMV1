@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=JuegoTurnos
+comment1.params=mapaAnterior
+comment1.target=JuegoTurnos(greenfoot.World)
+comment2.params=
+comment2.target=JuegoTurnos()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=greenfoot.World\ getMundoAnterior()
+numComments=5

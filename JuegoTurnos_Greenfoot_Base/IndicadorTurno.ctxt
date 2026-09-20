@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IndicadorTurno
+comment1.params=
+comment1.target=void\ act()
+comment2.params=texto\ color
+comment2.target=void\ mostrar(java.lang.String,\ greenfoot.Color)
+comment3.params=
+comment3.target=void\ actualizar()
+numComments=4
